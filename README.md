@@ -1,1 +1,1 @@
-# git tutoril repository
+# git tutorial repository
